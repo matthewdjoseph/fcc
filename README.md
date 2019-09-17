@@ -1,1 +1,1 @@
-free code camp coding practice
+Algorithmic coding practice
